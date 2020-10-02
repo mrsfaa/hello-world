@@ -1,7 +1,9 @@
 # hello-world
 
-Hello muggles!
+Hello!
 This is just another repository
 
-My first try ever
-I am looking forward to this
+My birthday is around the corner
+I am hoping for another blessed years ahead
+And some cakes too
+With a gift
